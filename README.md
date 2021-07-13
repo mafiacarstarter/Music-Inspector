@@ -15,7 +15,7 @@ It provides a default name for the playlist it will make, but you can change tha
 After you have made a playlist, the default name will change to something else, allowing you to just spam playlists if you want.
 
 The option at the top marked 'Bedtime' will add the contents of a playlist called './../end of night.m3u' to the end of the playlist it generates.
-I used this to signal the end of the playlist, and give warning time to wrap things up.
+I used this to signal the end of the playlist, and give me warning time to wrap things up.
 
 The Save and Load Weights buttons will save the weights as they are currently set, so that you can use the same weights some other time rather than having to remember them or recalculate them.
 The Save Song Lists button will save the songlists back to the cabinet file from which it got them.  This is really only useful if you have it set to remove played songs from the playlist for some folder.
